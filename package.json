@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "expo-updates": "~29.0.16",
+    "expo-router": "~6.0.23",
+    "expo-build-properties": "~1.0.10",
+    "expo-apple-authentication": "~8.0.8"
+  },
+  "version": "1.0.0",
+  "devDependencies": {},
+  "overrides": {}
+}
